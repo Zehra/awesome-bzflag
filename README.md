@@ -16,7 +16,8 @@ Official Projects:
 * [github.com/BZFlag-Dev/style-guide](https://github.com/BZFlag-Dev/style-guide) - (In Development) :: The official front-end style guide for BZFlag websites
 * [github.com/BZFlag-Dev/bzflag-submitimages](https://github.com/BZFlag-Dev/bzflag-submitimages)
 * [github.com/BZFlag-Dev/account.bzflag.org](https://github.com/BZFlag-Dev/account.bzflag.org)
-* [github.com/BZFlag-Dev/bzflag-bzfls](https://github.com/BZFlag-Dev/bzflag-bzfls) - 
+* [github.com/BZFlag-Dev/bzflag-bzfls](https://github.com/BZFlag-Dev/bzflag-bzfls)
+* [github.com/BZFlag-Dev/asset-manager](https://github.com/BZFlag-Dev/asset-manager)
 * [github.com/BZFlag-Dev/bzflag-art](https://github.com/BZFlag-Dev/bzflag-art) - Sources for Original Art used in BZFlag
 
 
