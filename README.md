@@ -4,21 +4,23 @@ Awesome BZFlag
 
 Official Projects:
 ==================
-* [github.com/BZFlag-Dev/bzflag](https://github.com/BZFlag-Dev/bzflag) - BZFlag client and server source code + misc utilities.
-* [github.com/BZFlag-Dev/bzflag.org](https://github.com/BZFlag-Dev/bzflag.org) - BZFlag website.
-* [github.com/BZFlag-Dev/bzflag-dependencies](https://github.com/BZFlag-Dev/bzflag-dependencies) - Windows dependencies for compiling BZFlag
-* [github.com/BZFlag-Dev/bzflag-tools](https://github.com/BZFlag-Dev/bzflag-tools) - BZWGen, BZEdit, BZEdit32, BZStats
-* [github.com/BZFlag-Dev/bzflag-web](https://github.com/BZFlag-Dev/bzflag-web) - Old website and database
-* [github.com/BZFlag-Dev/bzflag-listkeymgr](https://github.com/BZFlag-Dev/bzflag-listkeymgr) - BZFlag list key manager.
-* [github.com/BZFlag-Dev/snapcraft](https://github.com/BZFlag-Dev/snapcraft) - Official BZFlag Snapcraft Package
-* [github.com/BZFlag-Dev/bzflag-archive](https://github.com/BZFlag-Dev/bzflag-archive) - unreleased BZFlag pieces
-* [github.com/BZFlag-Dev/bzworkbench](https://github.com/BZFlag-Dev/bzworkbench) - BZFlag map development tool
-* [github.com/BZFlag-Dev/style-guide](https://github.com/BZFlag-Dev/style-guide) - (In Development) :: The official front-end style guide for BZFlag websites
-* [github.com/BZFlag-Dev/bzflag-submitimages](https://github.com/BZFlag-Dev/bzflag-submitimages)
-* [github.com/BZFlag-Dev/account.bzflag.org](https://github.com/BZFlag-Dev/account.bzflag.org)
-* [github.com/BZFlag-Dev/bzflag-bzfls](https://github.com/BZFlag-Dev/bzflag-bzfls)
-* [github.com/BZFlag-Dev/asset-manager](https://github.com/BZFlag-Dev/asset-manager)
-* [github.com/BZFlag-Dev/bzflag-art](https://github.com/BZFlag-Dev/bzflag-art) - Sources for Original Art used in BZFlag
+| Project | Description |
+|---------|-------------|
+| [BZFlag-Dev/bzflag](https://github.com/BZFlag-Dev/bzflag) | BZFlag client and server source code + misc utilities. |
+| [BZFlag-Dev/bzflag.org](https://github.com/BZFlag-Dev/bzflag.org) | BZFlag website. |
+| [BZFlag-Dev/bzflag-dependencies](https://github.com/BZFlag-Dev/bzflag-dependencies) | Windows dependencies for compiling BZFlag |
+| [BZFlag-Dev/bzflag-tools](https://github.com/BZFlag-Dev/bzflag-tools) | BZWGen, BZEdit, BZEdit32, BZStats |
+| [BZFlag-Dev/bzflag-web](https://github.com/BZFlag-Dev/bzflag-web) | Old website and database |
+| [BZFlag-Dev/bzflag-listkeymgr](https://github.com/BZFlag-Dev/bzflag-listkeymgr) | BZFlag list key manager. |
+| [BZFlag-Dev/snapcraft](https://github.com/BZFlag-Dev/snapcraft) | Official BZFlag Snapcraft Package |
+| [BZFlag-Dev/bzflag-archive](https://github.com/BZFlag-Dev/bzflag-archive) | unreleased BZFlag pieces |
+| [BZFlag-Dev/bzworkbench](https://github.com/BZFlag-Dev/bzworkbench) | BZFlag map development tool |
+| [BZFlag-Dev/style-guide](https://github.com/BZFlag-Dev/style-guide) | (In Development) :: The official front-end style guide for BZFlag websites |
+| [BZFlag-Dev/bzflag-submitimages](https://github.com/BZFlag-Dev/bzflag-submitimages) |  |
+| [BZFlag-Dev/account.bzflag.org](https://github.com/BZFlag-Dev/account.bzflag.org) |  |
+| [BZFlag-Dev/bzflag-bzfls](https://github.com/BZFlag-Dev/bzflag-bzfls) |  |
+| [BZFlag-Dev/asset-manager](https://github.com/BZFlag-Dev/asset-manager) |  |
+| [BZFlag-Dev/bzflag-art](https://github.com/BZFlag-Dev/bzflag-art) | Sources for Original Art used in BZFlag |
 
 
 Non-official/unofficial/private projects by BZFlag developers:
