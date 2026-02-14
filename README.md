@@ -123,96 +123,103 @@ Third party projects:
 =====================
 Websites:
 ---------
-* [BZList.net](https://bzlist.net/) - Real-time BZFlag server stats
-* [BZStats.Strayer.de](http://bzstats.strayer.de) - Strayer's BZStats
-* [thenoah.dev/bzfs-plugins](https://thenoah.dev/bzfs-plugins/) - BZFlag Server Plugins
-* [www.cruzan.info/bzflag/bzflag.html](http://www.cruzan.info/bzflag/bzflag.html) - Sid6.7's BZflag Worlds 
-* [shellshock.bzflag.bz](http://shellshock.bzflag.bz/) - Dutchrai's Shell Shock
+| Website | Description |
+|---------|-------------|
+| [BZList.net](https://bzlist.net/) | Real-time BZFlag server stats |
+| [BZStats.Strayer.de](http://bzstats.strayer.de) | Strayer's BZStats |
+| [thenoah.dev/bzfs-plugins](https://thenoah.dev/bzfs-plugins/) | BZFlag Server Plugins |
+| [www.cruzan.info/bzflag/bzflag.html](http://www.cruzan.info/bzflag/bzflag.html) | Sid6.7's BZflag Worlds  |
+| [shellshock.bzflag.bz](http://shellshock.bzflag.bz/) | Dutchrai's Shell Shock |
 
 Web related:
 ------------
-* [github.com/BZFlagCommunity/webbzw](https://github.com/BZFlagCommunity/webbzw) - Preview and edit BZW files on the web
-* [github.com/bzlist/bzlist.net-old](https://github.com/bzlist/bzlist.net-old) - BZList is an online service providing real-time BZFlag server information
-* [github.com/bzlist/bzlist.net](https://github.com/bzlist/bzlist.net) - Socket.io + React = (kind of) real-time server stats for BZFlag.
-* [github.com/cs8425/bzw-viewer](https://github.com/cs8425/bzw-viewer) - BZW viewer in WebGL
-* [github.com/jessicarobo/bzfa-php](https://github.com/jessicarobo/bzfa-php) - Simple php frontend for bzflag's bzadmin utility
-* [github.com/The-Noah/bzfs-plugins](https://github.com/The-Noah/bzfs-plugins) - Website with listing of BZFlag plug-ins.
-* [github.com/The-Noah/bzw-online](https://github.com/The-Noah/bzw-online) - Generate BZW files on the web
-* [github.com/will-in-wi/bzfs-web-ui](https://github.com/will-in-wi/bzfs-web-ui) - A web interface for starting BZFlag servers.
+| Project | Description |
+|---------|-------------|
+| [BZFlagCommunity/webbzw](https://github.com/BZFlagCommunity/webbzw) | Preview and edit BZW files on the web |
+| [bzlist/bzlist.net-old](https://github.com/bzlist/bzlist.net-old) | BZList is an online service providing real-time BZFlag server information |
+| [bzlist/bzlist.net](https://github.com/bzlist/bzlist.net) | Socket.io + React = (kind of) real-time server stats for BZFlag. |
+| [cs8425/bzw-viewer](https://github.com/cs8425/bzw-viewer) | BZW viewer in WebGL |
+| [The-Noah/bzfs-plugins](https://github.com/The-Noah/bzfs-plugins) | Website with listing of BZFlag plug-ins. |
+| [The-Noah/bzw-online](https://github.com/The-Noah/bzw-online) | Generate BZW files on the web |
+| [will-in-wi/bzfs-web-ui](https://github.com/will-in-wi/bzfs-web-ui) | A web interface for starting BZFlag servers. |
 
 BZFlag Utilities:
 -----------------
-* [github.com/admiraljoey/bzflag-tools](https://github.com/admiraljoey/bzflag-tools) - misc. tools for bzflag
-* [github.com/ahsthree/ObstacleCourse](https://github.com/ahsthree/ObstacleCourse) - Ruby Script to generate a Obstacle Course for the game Bzflag.
-* [github.com/Aref-Riant/bzflag](https://github.com/Aref-Riant/bzflag) - Bzflag game server with plugins and maps
-* [github.com/BaptLaGagne/BZTools](https://github.com/BaptLaGagne/BZTools) - Helper to run bzflag server 
-* [github.com/BZFlagCommunity/bsm](https://github.com/BZFlagCommunity/bsm) - BZFlag server manager. Easily manage multiple bzfs instances
-* [github.com/BZFlagCommunity/bzfquery.rs](https://github.com/BZFlagCommunity/bzfquery.rs) - Rust version of bzfquery with no external dependencies. It can be used as a library or form the command line.
-* [github.com/BZFlagCommunity/bzw-images](https://github.com/BZFlagCommunity/bzw-images) - Screenshots of various BZFlag maps
-* [github.com/BZFlagCommunity/bzfquery.js](https://github.com/BZFlagCommunity/bzfquery.js) - JavaScript/TypeScript version of bzfquery for Deno with no external dependencies. It can also be used as a library or from the command line.
-* [github.com/bzlist/bzfs-history](https://github.com/bzlist/bzfs-history) - Saves a snapshot of all public BZFlag servers into a MongoDB database
-* [github.com/computate-org/computate_bzflag](https://github.com/computate-org/computate_bzflag)
-* [github.com/dennis/bzlauncher](https://github.com/dennis/bzlauncher) - GUI for launching BZFlag
-* [github.com/forquare/BZFlag-Server-GUI-Tool](https://github.com/forquare/BZFlag-Server-GUI-Tool)
-* [github.com/gitpan/BZFlag-Info](https://github.com/gitpan/BZFlag-Info) - Read-only release history for BZFlag-Info
-* [github.com/icecld/bzw-highlighting](https://github.com/icecld/bzw-highlighting) - Syntax Highlighting for BZFlag BZW Files
-* [github.com/imec-int/BZCast](https://github.com/imec-int/BZCast) - Sends visual and audible cues to the Chromecast when playing BZFlag
-* [github.com/imec-int/BZHue](https://github.com/imec-int/BZHue) - Augment BZflag with the Phlips Hue lights (hacked.io project)
-* [github.com/jftsang/mybzfs](https://github.com/jftsang/mybzfs) - My BZFlag server config and map
-* [github.com/kaadmy/passture](https://github.com/kaadmy/passture) - Ducati-style BZFlag map with a twist.
-* [github.com/kaadmy/bzcheatfree](https://github.com/kaadmy/bzcheatfree) - BZFlag client with all builtin hacks and cheats removed
-* [github.com/nairraf/bzflagServerManagement](https://github.com/nairraf/bzflagServerManagement)
-* [github.com/m1k3s/gbzadmin3](https://github.com/m1k3s/gbzadmin3) - gtkmm GUI client for BZFlag server administration
-* [github.com/quinn-cc/MyBZFlag](https://github.com/quinn-cc/MyBZFlag)
-* [github.com/quinn-cc/bzflag-grue-1.0.0](https://github.com/quinn-cc/bzflag-grue-1.0.0) - This is my custom version of the BZFS, all in one package here.
-* [github.com/Raibaz/bzrank-gui](https://github.com/Raibaz/bzrank-gui) - An HTML viewer for BZFlag stats
-* [github.com/rcaputo/bzflag-map-vectrex](https://github.com/rcaputo/bzflag-map-vectrex) - Old Skool style world for BZFlag
-* [github.com/tdaede/blender-bzw](https://github.com/tdaede/blender-bzw) - Blender BZFlag BZW exporter
-* [github.com/The-Noah/bzflag-launcher](https://github.com/The-Noah/bzflag-launcher) - BZFlag launcher for Windows
-* [github.com/The-Noah/bzflag-servers-bot](https://github.com/The-Noah/bzflag-servers-bot) - BZFlag discord bot which gets current player counts online.
-* [github.com/The-Noah/BZFlag-Textures](https://github.com/The-Noah/BZFlag-Textures) - Textures for BZFlag
-* [github.com/tommybutler/zehrasoccer](https://github.com/tommybutler/zehrasoccer) - Zehra's BZFlag Soccer Server
+| Project | Description |
+|---------|-------------|
+| [admiraljoey/bzflag-tools](https://github.com/admiraljoey/bzflag-tools) | misc. tools for bzflag |
+| [ahsthree/ObstacleCourse](https://github.com/ahsthree/ObstacleCourse) | Ruby Script to generate a Obstacle Course for the game Bzflag. |
+| [Aref-Riant/bzflag](https://github.com/Aref-Riant/bzflag) | Bzflag game server with plugins and maps |
+| [BaptLaGagne/BZTools](https://github.com/BaptLaGagne/BZTools) | Helper to run bzflag server  |
+| [BZFlagCommunity/bsm](https://github.com/BZFlagCommunity/bsm) | BZFlag server manager. Easily manage multiple bzfs instances |
+| [BZFlagCommunity/bzfquery.rs](https://github.com/BZFlagCommunity/bzfquery.rs) | Rust version of bzfquery with no external dependencies. It can be used as a library or form the command line. |
+| [BZFlagCommunity/bzw-images](https://github.com/BZFlagCommunity/bzw-images) | Screenshots of various BZFlag maps |
+| [BZFlagCommunity/bzfquery.js](https://github.com/BZFlagCommunity/bzfquery.js) | JavaScript/TypeScript version of bzfquery for Deno with no external dependencies. It can also be used as a library or from the command line. |
+| [bzlist/bzfs-history](https://github.com/bzlist/bzfs-history) | Saves a snapshot of all public BZFlag servers into a MongoDB database |
+| [computate-org/computate_bzflag](https://github.com/computate-org/computate_bzflag) |
+| [dennis/bzlauncher](https://github.com/dennis/bzlauncher) | GUI for launching BZFlag |
+| [forquare/BZFlag-Server-GUI-Tool](https://github.com/forquare/BZFlag-Server-GUI-Tool) |
+| [gitpan/BZFlag-Info](https://github.com/gitpan/BZFlag-Info) | Read-only release history for BZFlag-Info |
+| [icecld/bzw-highlighting](https://github.com/icecld/bzw-highlighting) | Syntax Highlighting for BZFlag BZW Files |
+| [imec-int/BZCast](https://github.com/imec-int/BZCast) | Sends visual and audible cues to the Chromecast when playing BZFlag |
+| [imec-int/BZHue](https://github.com/imec-int/BZHue) | Augment BZflag with the Phlips Hue lights (hacked.io project) |
+| [jftsang/mybzfs](https://github.com/jftsang/mybzfs) | My BZFlag server config and map |
+| [kaadmy/passture](https://github.com/kaadmy/passture) | Ducati-style BZFlag map with a twist. |
+| [kaadmy/bzcheatfree](https://github.com/kaadmy/bzcheatfree) | BZFlag client with all builtin hacks and cheats removed |
+| [nairraf/bzflagServerManagement](https://github.com/nairraf/bzflagServerManagement) |
+| [m1k3s/gbzadmin3](https://github.com/m1k3s/gbzadmin3) | gtkmm GUI client for BZFlag server administration |
+| [quinn-cc/MyBZFlag](https://github.com/quinn-cc/MyBZFlag) |
+| [quinn-cc/bzflag-grue-1.0.0](https://github.com/quinn-cc/bzflag-grue-1.0.0) | This is my custom version of the BZFS, all in one package here. |
+| [Raibaz/bzrank-gui](https://github.com/Raibaz/bzrank-gui) | An HTML viewer for BZFlag stats |
+| [rcaputo/bzflag-map-vectrex](https://github.com/rcaputo/bzflag-map-vectrex) | Old Skool style world for BZFlag |
+| [tdaede/blender-bzw](https://github.com/tdaede/blender-bzw) | Blender BZFlag BZW exporter |
+| [The-Noah/bzflag-launcher](https://github.com/The-Noah/bzflag-launcher) | BZFlag launcher for Windows |
+| [The-Noah/bzflag-servers-bot](https://github.com/The-Noah/bzflag-servers-bot) | BZFlag discord bot which gets current player counts online. |
+| [The-Noah/BZFlag-Textures](https://github.com/The-Noah/BZFlag-Textures) | Textures for BZFlag |
+| [tommybutler/zehrasoccer](https://github.com/tommybutler/zehrasoccer) | Zehra's BZFlag Soccer Server |
 
 BZFlag Plug-ins:
 ----------------
-> Note: Much is still to be added here.
-* [github.com/achoopic/Grenade](https://github.com/achoopic/Grenade) - Grenade custom flag plugin for BZFlag 2.4
-* [github.com/asinck/ReverseGeno](https://github.com/asinck/ReverseGeno) - A plugin for bzflag. It allows a player to genocide the other team by being shot.
-* [github.com/bzlist/bzlist-bzfs-plugin](https://github.com/bzlist/bzlist-bzfs-plugin)
-* [github.com/danryder/bzGunGameStyle](https://github.com/danryder/bzGunGameStyle) - Emulation of "GunGame" from CS and GoldenEye
-* [github.com/kaadmy/armory](https://github.com/kaadmy/armory) - Adds a BZFlag gamemode similar to Team Fortress 2's "payload" gamemode.
-* [github.com/mborromeo/bzrank](https://github.com/mborromeo/bzrank) - Yet another BZFlag stats system 
-* [github.com/mborromeo/bzrank-feeder](https://github.com/mborromeo/bzrank-feeder) - Submodule of the BZRank plugin 
-* [github.com/mborromeo/bzrank-plugin](https://github.com/mborromeo/bzrank-plugin) - Submodule of the BZRank plugin 
-* [github.com/RighthandSon/Retroreflector](https://github.com/RighthandSon/Retroreflector) - A plugin for BZFlag https://www.bzflag.org that creates a retroreflector flag
-* [github.com/RighthandSon/givePoint](https://github.com/RighthandSon/givePoint) - A plugin for BZFlag https://www.bzflag.org that allows players to give away their points.
-* [github.com/RighthandSon/CascadeFlag](https://github.com/RighthandSon/CascadeFlag) - Modified plugin from https://allejo.io/blog/bzflag-plug-ins-for-dummies-chapter-9/
-* [github.com/RingingResonance/goomba](https://github.com/RingingResonance/goomba) - goomba stomp plugin for bzflag
-* [github.com/xale/bzflag-mapvote](https://github.com/xale/bzflag-mapvote) - BZFlag Plugin: allows operators to change the server's current map, or players to vote for a map change
-* [github.com/xale/bzflag-spreetracker](https://github.com/xale/bzflag-spreetracker) - BZFlag Plugin: tracks players' kill-streaks and announces them as server messages
+| Project | Description |
+|---------|-------------|
+| [achoopic/Grenade](https://github.com/achoopic/Grenade) | Grenade custom flag plugin for BZFlag 2.4 |
+| [asinck/ReverseGeno](https://github.com/asinck/ReverseGeno) | A plugin for bzflag. It allows a player to genocide the other team by being shot. |
+| [bzlist/bzlist-bzfs-plugin](https://github.com/bzlist/bzlist-bzfs-plugin) |
+| [kaadmy/armory](https://github.com/kaadmy/armory) | Adds a BZFlag gamemode similar to Team Fortress 2's "payload" gamemode. |
+| [mborromeo/bzrank](https://github.com/mborromeo/bzrank) | Yet another BZFlag stats system  |
+| [mborromeo/bzrank-feeder](https://github.com/mborromeo/bzrank-feeder) | Submodule of the BZRank plugin  |
+| [mborromeo/bzrank-plugin](https://github.com/mborromeo/bzrank-plugin) | Submodule of the BZRank plugin  |
+| [RighthandSon/Retroreflector](https://github.com/RighthandSon/Retroreflector) | A plugin for BZFlag https://www.bzflag.org that creates a retroreflector flag |
+| [RighthandSon/givePoint](https://github.com/RighthandSon/givePoint) | A plugin for BZFlag https://www.bzflag.org that allows players to give away their points. |
+| [RighthandSon/CascadeFlag](https://github.com/RighthandSon/CascadeFlag) | Modified plugin from https://allejo.io/blog/bzflag-plug-ins-for-dummies-chapter-9/ |
+| [RingingResonance/goomba](https://github.com/RingingResonance/goomba) | goomba stomp plugin for bzflag |
+| [xale/bzflag-mapvote](https://github.com/xale/bzflag-mapvote) | BZFlag Plugin: allows operators to change the server's current map, or players to vote for a map change |
+| [xale/bzflag-spreetracker](https://github.com/xale/bzflag-spreetracker) | BZFlag Plugin: tracks players' kill-streaks and announces them as server messages |
 
 BZFlag league related projects:
 -------------------------------
-* [github.com/allejo/bzion](https://github.com/allejo/bzion) - League management system for BZFlag.
-* [github.com/allejo/LeagueOverseer](https://github.com/allejo/LeagueOverseer) - Plug-in which works jointly with bzion.
-* [github.com/catay/OneVsOne](https://github.com/catay/OneVsOne) - 1vs1 league plug-in
-* [github.com/macsforme/bzfmchallenge](https://github.com/macsforme/bzfmchallenge) - The web site code for the BZFlag FunMatch Challenge at challenge.leaguesunited.org.
-* [github.com/macsforme/leaguesunited](https://github.com/macsforme/leaguesunited) - A place for collaborative development of tools for BZFlag Leagues United.
-* [github.com/macsforme/mutedChatHelper](https://github.com/macsforme/mutedChatHelper) - BZFlag server plugin that allows muted players to send several pre-determined messages.
+| Project | Description |
+|---------|-------------|
+| [allejo/bzion](https://github.com/allejo/bzion) | League management system for BZFlag. |
+| [allejo/LeagueOverseer](https://github.com/allejo/LeagueOverseer) | Plug-in which works jointly with bzion. |
+| [catay/OneVsOne](https://github.com/catay/OneVsOne) | 1vs1 league plug-in |
+| [macsforme/bzfmchallenge](https://github.com/macsforme/bzfmchallenge) | The web site code for the BZFlag FunMatch Challenge at challenge.leaguesunited.org. |
+| [macsforme/leaguesunited](https://github.com/macsforme/leaguesunited) | A place for collaborative development of tools for BZFlag Leagues United. |
+| [macsforme/mutedChatHelper](https://github.com/macsforme/mutedChatHelper) | BZFlag server plugin that allows muted players to send several pre-determined messages. |
 
 BZFlag AI projects
 ------------------
 | Project | Description |
 |---------|-------------|
-| [github.com/atshum/BZFlag-ICS491](https://github.com/atshum/BZFlag-ICS491) | BZFlag 2.4.0, ICS491 Fall 2011 |
-| [github.com/Azmisov/bzflag-ai](https://github.com/Azmisov/bzflag-ai) | Artificial Intelligence for playing the BZFlag tank game |
-| [github.com/canadaduane/BraveZealot](https://github.com/canadaduane/BraveZealot) | AI bot for BZFlag |
-| [github.com/chris-clm09/bzflag](https://github.com/chris-clm09/bzflag) | cs470 projects |
-| [github.com/eclazalde/bzflag470](https://github.com/eclazalde/bzflag470) | bzflag lab for CS470 |
-| [github.com/EthanAI/Gaming-AI-BZflag-ShootOut](https://github.com/EthanAI/Gaming-AI-BZflag-ShootOut) | AI code for a team of tanks for the game BZflag |
-| [github.com/joeldenning/cs470](https://github.com/joeldenning/cs470) | BZFlag Brian and Joel |
-| [github.com/JiajunK/BZFlag-Robots](https://github.com/JiajunK/BZFlag-Robots) | An edit to the game "BZFlag" to implement AI |
-| [github.com/jlarobello/BZFlag-AI](https://github.com/jlarobello/BZFlag-AI) | Green team |
-| [github.com/mdko/byu-cs470](https://github.com/mdko/byu-cs470) | |
-| [github.com/sojacky/BZFlag-final](https://github.com/sojacky/BZFlag-final) |  working bzflag for final ai shootout |
-| [github.com/tylersouthwick/bzflagagent](https://github.com/tylersouthwick/bzflagagent) | CS470 BZFlag Agent |
+| [atshum/BZFlag-ICS491](https://github.com/atshum/BZFlag-ICS491) | BZFlag 2.4.0, ICS491 Fall 2011 |
+| [Azmisov/bzflag-ai](https://github.com/Azmisov/bzflag-ai) | Artificial Intelligence for playing the BZFlag tank game |
+| [canadaduane/BraveZealot](https://github.com/canadaduane/BraveZealot) | AI bot for BZFlag |
+| [chris-clm09/bzflag](https://github.com/chris-clm09/bzflag) | cs470 projects |
+| [eclazalde/bzflag470](https://github.com/eclazalde/bzflag470) | bzflag lab for CS470 |
+| [EthanAI/Gaming-AI-BZflag-ShootOut](https://github.com/EthanAI/Gaming-AI-BZflag-ShootOut) | AI code for a team of tanks for the game BZflag |
+| [joeldenning/cs470](https://github.com/joeldenning/cs470) | BZFlag Brian and Joel |
+| [JiajunK/BZFlag-Robots](https://github.com/JiajunK/BZFlag-Robots) | An edit to the game "BZFlag" to implement AI |
+| [jlarobello/BZFlag-AI](https://github.com/jlarobello/BZFlag-AI) | Green team |
+| [mdko/byu-cs470](https://github.com/mdko/byu-cs470) | |
+| [sojacky/BZFlag-final](https://github.com/sojacky/BZFlag-final) |  working bzflag for final ai shootout |
+| [tylersouthwick/bzflagagent](https://github.com/tylersouthwick/bzflagagent) | CS470 BZFlag Agent |
